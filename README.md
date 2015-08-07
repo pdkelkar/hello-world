@@ -1,2 +1,2 @@
 # hello-world
-Firs GIT repo
+First GIT trial repository
